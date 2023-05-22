@@ -1,12 +1,12 @@
 # Testy-Automatyczne-Skleptest
 
 ## Tabela zawartości
-* [Podstawowe informacje](#general-info)
-* [Technologie](#technologies)
-* [Linki](#images)
+* [Podstawowe informacje](#podstawowe-informacje)
+* [Technologie](#technologie)
+* [Linki](#linki)
 * [Setup](#setup)
-* [Autorka](#author)
-* [Nauczyciele](#teachers)
+* [Autor](#autor)
+* [Nauczyciele](#nauczyciele)
 
 ## Podstawowe informacje
 Testy-Automatyczne-Skleptest - aplikacja wykonana w ramach studiów wykorzystująca testy automatyczne typu E2E bazujące na frameworku WebdriverIO
